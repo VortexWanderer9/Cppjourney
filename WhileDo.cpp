@@ -5,10 +5,9 @@ using namespace std;
 int main()
 {
     string yes;
-     cout << "Wanna continue: (y/n)";
+    do{
+    cout << "Wanna continue: (y/n)";
     cin >> yes;
-    do
-    {
-        cout << "Fuck You" << endl;
+     cout << "Fuck You" << endl;
     } while (yes == "y");
 }
