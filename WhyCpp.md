@@ -1,0 +1,54 @@
+### cPP 
+why c++?
+- c++ is a powerful and versatile programming language that offers a wide range of features and capabilities, making it suitable for a variety of applications, from system programming to game development and beyond.
+- c++ provides a high level of control over system resources and memory management, allowing developers to optimize performance and create efficient applications.
+- c++ supports object-oriented programming, which promotes code reusability and modular design, making it easier to manage and maintain large codebases.
+- c++ has a large and active community, which means there are plenty of resources, libraries, and frameworks available to help developers learn and use the language effectively.
+- c++ is widely used in industry, particularly in areas such as game development, embedded systems, and high-performance computing, making it a valuable skill for developers to have in their toolkit.
+- c++ is a language that has been around for a long time and has evolved over the years, with new features and improvements being added regularly, making it a language that continues to be relevant and useful in modern software development.
+- c++ is a language that allows developers to write code that is both efficient and expressive, making it a great choice for a wide range of programming tasks.
+- c++ is a language that is designed to be portable, meaning that code written in c++ can be compiled and run on a variety of platforms and operating systems, making it a great choice for cross-platform development.
+- c++ is a language that is widely used in academia and research, making it a great choice for students and researchers who want to learn programming and develop their skills in a powerful and versatile language.
+- c++ is a language that is constantly evolving and improving, with new features and capabilities being added regularly, making it a language that continues to be relevant and useful in modern software development.
+- c++ is a language that is designed to be efficient and fast, making it a great choice for applications that require high performance, such as games, simulations, and real-time systems.
+- c++ is a language that is widely used in the development of operating systems, compilers
+, and other system-level software, making it a great choice for developers who want to work on low-level programming tasks.
+- c++ is a language that is designed to be flexible and adaptable, allowing developers to choose
+the programming paradigm that best suits their needs, whether it's procedural, object-oriented, or functional programming.
+- c++ is a language that is widely used in the development of libraries and frameworks, making
+it a great choice for developers who want to create reusable code that can be shared across multiple projects.
+- c++ is a language that is designed to be compatible with C, allowing developers to easily
+integrate C code into their c++ projects and take advantage of the vast ecosystem of C libraries and tools.
+- c++ is a language that is widely used in the development of high-performance applications, such as video games, scientific simulations, and financial modeling, making it a great choice for developers who want to work on cutting-edge projects that require maximum performance and efficiency.
+- c++ is a language that is designed to be efficient and fast, making it a great choice for applications that require high performance, such as games, simulations, and real-time systems.
+- c++ is a language that is widely used in the development of operating systems, compilers, and other system-level software, making it a great choice for developers who want to work on low-level programming tasks.
+
+
+## cpp on windows
+- Visual Studio: Visual Studio is a popular integrated development environment (IDE) for Windows that supports c++ development. It provides a powerful set of tools for coding, debugging, and testing c++ applications, making it a great choice for developers who want to work on Windows.
+- MinGW: MinGW (Minimalist GNU for Windows) is a free and open-source development environment that provides a port of the GNU Compiler Collection (GCC) for Windows. It allows developers to compile and run c++ code on Windows using the same tools and libraries that are available on other platforms, making it a great choice for cross-platform development.
+- Cygwin: Cygwin is a free and open-source software that provides a Unix-like environment on Windows. It includes a collection of tools and libraries that allow developers to compile and run c++ code on Windows using the same tools and libraries that are  available on other platforms, making it a great choice for cross-platform development.
+- WSL (Windows Subsystem for Linux): WSL is a compatibility layer for running Linux binary executables natively on Windows 10 and later. It allows developers to run a Linux environment on Windows, which includes support for c++ development using the same tools and libraries that are available on Linux, making it a great choice for cross-platform development.
+- Code::Blocks: Code::Blocks is a free and open-source IDE that supports c++ development on Windows. It provides a user-friendly interface and a wide range of features for coding, debugging, and testing c++ applications, making it a great choice for developers who want to work on Windows.
+- CLion: CLion is a cross-platform IDE for c++ development that is available on Windows, macOS, and Linux. It provides a powerful set of tools for coding, debugging, and testing c++ applications, making it a great choice for developers who want to work on Windows and other platforms.
+- Qt Creator: Qt Creator is a cross-platform IDE for c++ development that is available on Windows, macOS, and Linux. It is specifically designed for developing applications using the Qt framework, which is a popular framework for building cross-platform applications with a graphical user interface (GUI). Qt Creator provides a powerful set of tools for coding, debugging, and testing c++ applications that use the Qt framework, making it a great choice for developers who want to work on Windows and other platforms.
+
+## cpp on linux
+- GCC (GNU Compiler Collection): GCC is a widely used open-source compiler that supports c++ development on Linux. It provides a powerful set of tools for compiling and running c++ code, making it a great choice for developers who want to work on Linux.
+- Clang: Clang is a modern, open-source compiler that supports c++ development on Linux. It provides a powerful set of tools for compiling and running c++ code, and is known for its fast compilation times and excellent error messages, making it a great choice for developers who want to work on Linux.
+- Code::Blocks: Code::Blocks is a free and open-source IDE that supports c++ development on Linux. It provides a user-friendly interface and a wide range of features for coding, debugging, and testing c++ applications, making it a great choice for developers who want to work on Linux.
+- CLion: CLion is a cross-platform IDE for c++ development that is available on Windows, macOS, and Linux. It provides a powerful set of tools for coding, debugging, and testing c++ applications, making it a great choice for developers who want to work on Linux and other platforms.
+- Qt Creator: Qt Creator is a cross-platform IDE for c++ development that is available on Windows, macOS, and Linux. It is specifically designed for developing applications using the Qt framework, which is a popular framework for building cross-platform applications with a graphical user interface (GUI). Qt Creator provides a powerful set of tools for coding, debugging, and testing c++ applications that use the Qt framework, making it a great choice for developers who want to work on Linux and other platforms.
+- Eclipse CDT: Eclipse CDT (C/C++ Development Tooling) is a free and open-source IDE that supports c++ development on Linux. It provides a powerful set of tools for coding, debugging, and testing c++ applications, making it a great choice for developers who want to work on Linux.
+- NetBeans: NetBeans is a free and open-source IDE that supports c++ development on Linux. It provides a user-friendly interface and a wide range of features for coding, debugging,    and testing c++ applications, making it a great choice for developers who want to work on Linux.
+
+## cpp on ai
+- TensorFlow: TensorFlow is an open-source machine learning framework developed by Google that supports c++ development. It provides a powerful set of tools for building and training machine learning models, making it a great choice for developers who want to work on AI projects using c++.
+- PyTorch: PyTorch is an open-source machine learning framework developed by Facebook that supports c++ development. It provides a dynamic computational graph and a wide range of tools for building and training machine learning models, making it a great choice for developers who want to work on AI projects using c++.
+- Caffe: Caffe is an open-source deep learning framework developed by the Berkeley Vision and Learning Center that supports c++ development. It provides a fast and efficient way to build and train deep learning models, making it a great choice for developers who want to work on AI projects using c++.
+- MXNet: MXNet is an open-source deep learning framework developed by Amazon that supports c++ development. It provides a flexible and efficient way to build and train deep learning models, making it a great choice for developers who want to work on AI projects using c++.
+- OpenCV: OpenCV is an open-source computer vision library that supports c++ development. It provides a wide range of tools and algorithms for image processing, object detection, and other computer vision tasks, making it a great choice for developers who want to work on AI projects using c++.
+- Dlib: Dlib is an open-source machine learning library that supports c++ development. It provides a wide range of tools and algorithms for machine learning, including support vector machines, decision trees, and deep learning, making it a great choice for developers who want to work on AI projects using c++.
+- C++-ML: C++-ML is an open-source machine learning library that supports c++ development. It provides a wide range of tools and algorithms for machine learning, including support vector machines, decision trees, and deep learning, making it a great choice for developers who want to work on AI projects using c++.
+- Shogun: Shogun is an open-source machine learning library that supports c++ development. It provides a wide range of tools and algorithms for machine learning, including support vector machines, decision trees, and deep learning, making it a great choice for developers who want to work on AI projects using c++.
+- MLpack: MLpack is an open-source machine learning library that supports c++ development.
